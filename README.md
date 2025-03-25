@@ -1,0 +1,1 @@
+O objetivo do projeto é praticar o uso de classes, objetos, herança, polimorfismo, e encapsulamento para a criação de um sistema simples de "screenmatch", onde filmes são avaliados e exibidos conforme critérios definidos no código.
